@@ -31,7 +31,8 @@ generator.generate_sample_lyrics(10)
 ```
 
 ## Example Result
-![image](https://github.com/user-attachments/assets/f2e8e2ef-ebd4-4e26-822e-56a76531cdb2)
+<img width="833" alt="Screenshot 2024-08-02 at 1 17 21 PM" src="https://github.com/user-attachments/assets/2760dbd2-1f66-46e5-8567-b29cef687fa8">
+
 
 i took a chance i do of think of well thing all crowd in wishing for the red there you eyes i alone baby about when its i never and like and
 
