@@ -4,7 +4,7 @@ The "Lyrics Generation using RNN" project aims to create an AI-powered system th
 
 ## Install requires
 
-pandas,numpy，nltk，keras'，tensorflow，matplotlib，textblob
+pandas, numpy，nltk，keras，tensorflow，matplotlib，textblob
 
 ## Installation
 
