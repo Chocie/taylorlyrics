@@ -7,7 +7,7 @@ TaylorLyrics is a Python package for processing Taylor Swift lyrics and training
 ## Installation
 
 ```bash
-pip install git+https://github.com/yourusername/taylorlyrics.git
+pip install git+https://github.com/Chocie/taylorlyrics.git
 ```
 
 ## Example Usage
